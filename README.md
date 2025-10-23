@@ -100,6 +100,7 @@ Due to very limited resources (esp. equipments), the data in this table was gene
 这里，请用户重新表述这个命令，使之成为渐得如意熟悉的版本。在这里用户需要输入“到20：00时”并确认。现在，这段命令及其之后的命令就可以正常依次执行了。
 
 <img width="416" height="234" alt="image" src="https://github.com/user-attachments/assets/a9a12490-f6eb-43e2-970a-55813c3f889a" />
+
 ## 平台功能与特色
 功能上，本平台可学习用户的词汇、（最好符合中文语法的）句法，并且允许用户使用个性化但相对自由多样的表述方式下达用户自己定义的Python指令。本平台既可以通过“渐得如意”直接命令交互，又可以用“渐得如意”打开中文命令脚本。
 
