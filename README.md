@@ -123,5 +123,5 @@ Due to very limited resources (esp. equipments), the data (not including DAHSF) 
 ```plaintext
 进入https://github.com/Magic-Abracadabra/All-Agents-Are-Evolving-Translators。
 ```
-中，“https://github.com/Magic-Abracadabra/All-Agents-Are-Evolving-Translators”就是一个典型的数据词。
+中，“[https://github.com/Magic-Abracadabra/All-Agents-Are-Evolving-Translators](https://github.com/Magic-Abracadabra/All-Agents-Are-Evolving-Translators)”就是一个典型的数据词。
 6. 关键词：句子中除去数据词以外的部分，它们稳定而且具备上下文关联性强的特点，构成了句子的框架。例如上述案例中，“进入”是一个关键词，句子的框架可以看成“进入（网址）”。当关键词组成一定的框架后，在框架的空缺处填充恰当类型的数据词，便可以形成正确而完整的句子。
