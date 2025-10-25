@@ -1,4 +1,4 @@
-1. [Paper Link](https://www.alphaxiv.org/abs/2412.14054)
+1. [Paper Link](https://arxiv.org/abs/2412.14054)
 2. [Hugging Face](https://huggingface.co/Magic-Abracadabra/DAHSF)
 3. [AI Podcast](https://paper-podcasts.alphaxiv.org/0193dabb-9dc8-7c88-9973-7e905bfbe5cf/podcast.mp3)
 # Abstract
