@@ -1,6 +1,6 @@
 # Gradual Magic Intelligent Office Automation Platform (Copyrighted Software Platform)
 It's our second step/project of the [Office Agents and Their Incremental Learning Framework](https://github.com/Magic-Abracadabra/Office-Agents-and-Their-Incremental-Learning-Framework) series.
-Date of Certification: 
+Date of Certification: 2025. 10.
 # Introduction
 1. [Paper Link](https://arxiv.org/abs/2412.14054)
 2. [Hugging Face](https://huggingface.co/Magic-Abracadabra/DAHSF)
