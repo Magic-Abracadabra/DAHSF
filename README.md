@@ -1,4 +1,4 @@
-# Gradual Magic Intelligent Office Automation Platform
+# Gradual Magic Intelligent Office Automation Platform (Copyrighted Software Platform)
 It's our second step/project of the [Office Agents and Their Incremental Learning Framework](https://github.com/Magic-Abracadabra/Office-Agents-and-Their-Incremental-Learning-Framework) series.
 Date of Certification: 
 # Introduction
