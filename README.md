@@ -1,4 +1,6 @@
 # Gradual Magic Intelligent Office Automation Platform (Copyrighted Software Platform)
+Currently, the DAHSF is protected. Any external use is a violation of law.
+
 It's our second step/project of the [Office Agents and Their Incremental Learning Framework](https://github.com/Magic-Abracadabra/Office-Agents-and-Their-Incremental-Learning-Framework) series.
 Date of Certification: 10/21/2025.
 # Introduction
