@@ -1,0 +1,5 @@
+百度	https://www.baidu.com/s?wd=
+搜狗	https://www.sogou.com/web?query=
+360	https://www.so.com/s?q=
+必应	https://www.bing.com/search?q=
+纳米AI	https://www.n.cn/?q=
