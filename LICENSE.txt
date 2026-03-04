@@ -2,8 +2,8 @@ Copyright (c) 2025, Magic-Abracadabra
 All rights reserved.
 # 渐得如意智能自动化办公平台使用协议
 1. 您完全理解并完全同意，本平台专为教育与合法生产力场景设计，严禁用户将其用于任何违法犯罪活动——我们欢迎用户就任何涉嫌滥用本平台的违法犯罪行为，依法向执法机关与监管部门举报
-2. 【新派Web3.0条款】您完全理解并完全同意，本平台的数据库文件夹中的所有txt与py文件的内容（特别是使用本平台产生的）归您所有，在不侵犯此条规则产生的版权的条件下（即他人已经使用本平台产生属于他人的个性化数据），您可拥有本平台数据库的txt与py文件的数据内容版权（因此有权利拥有、出售、转让、申请相应版权）
-3. 您完全理解并完全同意，在该项目未彻底开源之前，不得对本平台进行任何形式的逆向工程；您完全理解并完全同意，不得对本平台采用的DAHSF及其序列解析架构进行未经授权的改造；如需商用本平台，请通过以下方式联系我们：
+2. 【新派Web3.0条款】您完全理解并完全同意，本平台的“数据库”文件夹中的所有使用本平台产生的txt与py文件的内容部分与您使用自己的电脑修改的部分归您所有，在不侵犯此条规则产生的版权的条件下（即他人已经使用本平台产生属于他人的个性化数据），您可拥有本平台数据库的txt与py文件的数据内容版权（因此有权利拥有、出售、转让、申请相应版权）
+3. 您完全理解并完全同意，在该项目未彻底开源之前，不得对本平台的序列解析架构进行任何形式的逆向工程；您完全理解并完全同意，不得对本平台采用的DAHSF及其序列解析架构进行未经授权的改造；如需商用本平台，请通过以下方式联系我们：
 3.1. GitHub：https://github.com/Magic-Abracadabra
 3.2. Codeberg：https://codeberg.org/Magic-Abracadabra
 3.3. Hugging Face：https://huggingface.co/Magic-Abracadabra
@@ -13,8 +13,7 @@ All rights reserved.
 3.7. 魔搭社区：https://www.modelscope.cn/profile/MagicAbracadabra
 3.8. 稀土掘金：https://juejin.cn/user/458920202081724
 
-# 第三方条款
-## Pyautogui
+# 第三方的版权信息及使用条款
 Copyright (c) 2014, Al Sweigart
 All rights reserved.
 
@@ -42,7 +41,5 @@ SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER
 CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
 OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
 OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
-## Pyperclip
-
 # 关于数据库
 本项目采用Python构建
