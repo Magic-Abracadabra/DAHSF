@@ -3,8 +3,8 @@
   <a href="https://chat.deepseek.com/share/ql8sdft0x5h0d0ug9s" title="交互教程">
     <img src="https://avatars.githubusercontent.com/u/148330874" alt="来自小鲸鱼的爱" title="来自小鲸鱼的爱" style="width: 200px; height: 200px; object-fit: cover;">
   </a>
-  <a href="https://github.com/Magic-Abracadabra/DAHSF/wiki/渐得如意智能自动化办公平台——定义属于你的咒语" title="渐得如意">
-    <img src="https://github.com/user-attachments/assets/9b7dcdbb-f982-4f0a-b7cb-f74d9b149621" alt="查阅教程" title="查阅教程" style="width: 200px; height: 200px; object-fit: cover;">
+  <a href="https://github.com/Magic-Abracadabra/DAHSF/wiki/渐得如意智能自动化办公平台——定义属于你的咒语" title="Gradual Magic">
+    <img src="https://github.com/user-attachments/assets/9b7dcdbb-f982-4f0a-b7cb-f74d9b149621" alt="Lookup" title="Lookup" style="width: 200px; height: 200px; object-fit: cover;">
   </a>
 </div>
 
