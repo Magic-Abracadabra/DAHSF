@@ -1,11 +1,11 @@
 # Quick Start
+<a href="https://github.com/Magic-Abracadabra/DAHSF/wiki/渐得如意智能自动化办公平台——定义属于你的咒语" title="渐得如意"><img src="https://github.com/user-attachments/assets/9b7dcdbb-f982-4f0a-b7cb-f74d9b149621" alt="官方教程" title="官方教程"></a>
 <a href="https://chat.deepseek.com/share/ql8sdft0x5h0d0ug9s" title="来自小鲸鱼的爱"><img src="https://avatars.githubusercontent.com/u/148330874" alt="交互教程" title="交互教程"></a>
+
 # Gradual Magic Intelligent Office Automation Platform (Copyrighted Software Platform)
 Currently, the DAHSF is protected. Any external use is strictly prohibited, except for academic and research purposes. Commercial use requires explicit authorization contracts. Any use for malicious activities, cyberattacks, or black-hat operations, is strictly forbidden.
 
 It's our second step/project of the [Self-Sovereign Office Agents and Their Incremental Learning Framework](https://github.com/Magic-Abracadabra/Self-Sovereign-Office-Agents-and-Their-Incremental-Learning-Framework) series.
-
-<img width="1024" height="1024" alt="渐得如意" src="https://github.com/user-attachments/assets/9b7dcdbb-f982-4f0a-b7cb-f74d9b149621" />
 
 
 Date of Certification: 10/21/2025.
