@@ -1,3 +1,5 @@
+# 快速上手教程
+<a href="https://chat.deepseek.com/share/ql8sdft0x5h0d0ug9s" title="来自小鲸鱼的爱"><img src="https://avatars.githubusercontent.com/u/148330874" alt="交互教程" title="交互教程"></a>
 # Gradual Magic Intelligent Office Automation Platform (Copyrighted Software Platform)
 Currently, the DAHSF is protected. Any external use is strictly prohibited, except for academic and research purposes. Commercial use requires explicit authorization contracts. Any use for malicious activities, cyberattacks, or black-hat operations, is strictly forbidden.
 
